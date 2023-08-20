@@ -1,4 +1,4 @@
-# HackerRank
+# HackerRank solution
 //fizz buzz question code using functions
 
 #include <bits/stdc++.h>
